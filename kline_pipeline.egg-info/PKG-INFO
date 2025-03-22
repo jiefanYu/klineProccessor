@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: kline-pipeline
-Version: 0.1.0
-Summary: A scalable, resumable and exactly-once A-share K-line generator.
-Author: Jiefan YU
-Requires-Python: >=3.7
