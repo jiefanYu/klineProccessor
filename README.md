@@ -12,7 +12,7 @@
 pip install -e .
 ```
 
-## 🚀 使用方式
+## 使用方式
 ```bash
 python main.py \
   --input ./md_20221110.csv \
